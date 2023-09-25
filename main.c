@@ -69,7 +69,7 @@ int main()
                 {
                     printf("the item you search for is not in the list\n");
                 }
-                printf("your item is at ---> %i <--- position in the array\n",ret);
+                printf("your item is at ---> %i <--- position in the array ,,, node number (((( %i )))) \n",ret,ret+1);
                 break;
             case 11:
                 printf("Quit from the app \n");
