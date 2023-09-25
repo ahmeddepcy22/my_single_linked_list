@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1695580369 source:c:\users\ahmed\documents\new folder\linkedlist_ds\linkedlist_ds.c
+	"linkedlist_ds.h"
+
+1695580875 c:\users\ahmed\documents\new folder\linkedlist_ds\linkedlist_ds.h
+	<stdio.h>
+	<stdlib.h>
+	"Platform_Types.h"
+
+1631476735 c:\users\ahmed\documents\new folder\linkedlist_ds\platform_types.h
+
+1695580124 source:c:\users\ahmed\documents\new folder\linkedlist_ds\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedlist_ds.h"
+
